@@ -1,1 +1,1 @@
-# Weather App • FLUTTER - BLOC & API Tutorial
+# Weather App • FLUTTER - BLOC & Open Weather API
